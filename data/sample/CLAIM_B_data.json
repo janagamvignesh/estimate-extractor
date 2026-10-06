@@ -1,0 +1,92 @@
+{
+ "source_note": "Fields copied from the claims system record (machine-parsed, may contain errors). Not the same thing as the estimate image. Names, IDs, places removed.",
+ "claim_ref": "CLAIM-B",
+ "vehicle": "Mahindra Marazzo M2 diesel (MPV)",
+ "loss_date": "2025-04-30",
+ "loss_summary": "Vehicle struck from behind by a truck while turning; rear damage.",
+ "nature_of_loss": "Accident External Means",
+ "payment_mode": "Cashless",
+ "claims_system_amounts": {
+  "estimated_amount_listed": 26469,
+  "final_settled_amount": 20947,
+  "currency": "INR"
+ },
+ "parsed_estimate": {
+  "stated_total_estimate_cost": 29764,
+  "total_part_estimation_cost": 8111,
+  "labour_estimation_cost": 21653,
+  "paint_estimation_cost": 0,
+  "vehicle_age_depreciation_pct": 0,
+  "lines": [
+   {
+    "part_name": "ASSY FR FASCIA UPPER-0119BU28081N-MAHINDRA",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 5169.92,
+    "part_dep_perc": 0,
+    "part_gst_perc": 28,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "REAR BUMPER BRACKET L-0119BU38073N-MAHINDRA",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 147.2,
+    "part_dep_perc": 0,
+    "part_gst_perc": 28,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "BACK LIGHT L-1703AU30221N-MAHINDRA",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 4631.5,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "DENTING CHARGES",
+    "part_type": "Other",
+    "part_quantity": 1,
+    "part_total": 3363,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "PAINTING CHARGE",
+    "part_type": "Other",
+    "part_quantity": 1,
+    "part_total": 18290,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   }
+  ],
+  "parsed_damage_parts_from_photos": [
+   {
+    "parts_name": "Front_Bumper",
+    "damage_type": "Damage"
+   },
+   {
+    "parts_name": "Rear_Bumper",
+    "damage_type": "Damage"
+   },
+   {
+    "parts_name": "Left_Taillight",
+    "damage_type": "Damage"
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "date": "2025-05-08",
+ "items": [
+  {
+   "description": "ASSY RR FASCIA UPPER-0119BU300810N-MAHINDRA",
+   "qty": 1,
+   "amount": 4030,
+   "kind": "part"
+  },
+  {
+   "description": "REAR BUMPER BRAKIT L-0119BU300730N-MAHINDRA",
+   "qty": 1,
+   "amount": 156,
+   "kind": "part"
+  },
+  {
+   "description": "BACK LIGHT L-1703AU300221N-MAHINDRA",
+   "qty": 1,
+   "amount": 3925,
+   "kind": "part"
+  },
+  {
+   "description": "DENTING CHARGES",
+   "qty": 1,
+   "amount": 3363,
+   "kind": "labour"
+  },
+  {
+   "description": "PAINTING CHARGE",
+   "qty": 1,
+   "amount": 18290,
+   "kind": "labour"
+  }
+ ],
+ "total": 29764,
+ "tax_added": null
+}

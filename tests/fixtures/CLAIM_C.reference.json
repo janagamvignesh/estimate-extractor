@@ -1,0 +1,121 @@
+{
+ "date": "2025-05-09",
+ "items": [
+  {
+   "description": "LAMP UNIT, RR COMBINATION RH",
+   "qty": 1,
+   "amount": 5020,
+   "kind": "part"
+  },
+  {
+   "description": "REFLECTOR ASSY,REAR,R",
+   "qty": 1,
+   "amount": 105,
+   "kind": "part"
+  },
+  {
+   "description": "PANEL ,QTR INNER REAR,LH",
+   "qty": 1,
+   "amount": 395,
+   "kind": "part"
+  },
+  {
+   "description": "PANEL ,WHEEL HOUSE INNER,LH",
+   "qty": 1,
+   "amount": 2860,
+   "kind": "part"
+  },
+  {
+   "description": "PANEL QUARTER RH",
+   "qty": 1,
+   "amount": 5945,
+   "kind": "part"
+  },
+  {
+   "description": "BUMPER,REAR",
+   "qty": 1,
+   "amount": 4400,
+   "kind": "part"
+  },
+  {
+   "description": "HOLDER,RR BUMPER SIDE,RH",
+   "qty": 1,
+   "amount": 65,
+   "kind": "part"
+  },
+  {
+   "description": "HOLDER,RR BUMPER SIDE,LH",
+   "qty": 1,
+   "amount": 65,
+   "kind": "part"
+  },
+  {
+   "description": "REAR BUMPER",
+   "qty": null,
+   "amount": 650,
+   "kind": "labour"
+  },
+  {
+   "description": "REAR BUMPER PAINTING",
+   "qty": null,
+   "amount": 5480,
+   "kind": "labour"
+  },
+  {
+   "description": "PANEL, QUARTER OUTER RH DENTING",
+   "qty": null,
+   "amount": 2200,
+   "kind": "labour"
+  },
+  {
+   "description": "PANEL, QUARTER OUTER RH PAINTING",
+   "qty": null,
+   "amount": 4965,
+   "kind": "labour"
+  },
+  {
+   "description": "REAR COMBINATION LAMP ASSY (ONE SIDE)",
+   "qty": null,
+   "amount": 300,
+   "kind": "labour"
+  },
+  {
+   "description": "MEMBER, TAILEND DENTING",
+   "qty": null,
+   "amount": 1200,
+   "kind": "labour"
+  },
+  {
+   "description": "MEMBER, TAILEND PAINTING",
+   "qty": null,
+   "amount": 1800,
+   "kind": "labour"
+  },
+  {
+   "description": "QUARTER WINDOW/INNER UPPER TRIM (ONE SIDE) WITH OPPOSITE SIDE",
+   "qty": null,
+   "amount": 950,
+   "kind": "labour"
+  },
+  {
+   "description": "QUARTER INNER TRIM (ONE SIDE) WITH OPPOSITE SIDE",
+   "qty": null,
+   "amount": 950,
+   "kind": "labour"
+  },
+  {
+   "description": "REAR SEAT CUSHION PAD (BENCH TYPE)",
+   "qty": null,
+   "amount": 1650,
+   "kind": "labour"
+  },
+  {
+   "description": "REAR SEAT CUSHION TRIM (BENCH TYPE)",
+   "qty": null,
+   "amount": 1650,
+   "kind": "labour"
+  }
+ ],
+ "total": 44573.1,
+ "tax_added": 3923.1
+}

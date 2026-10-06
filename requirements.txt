@@ -1,0 +1,6 @@
+anthropic>=0.40
+jsonschema>=4.20
+pillow>=10.0
+pytest>=8.0
+# Optional offline fallback (also needs the tesseract binary installed):
+pytesseract>=0.3.10

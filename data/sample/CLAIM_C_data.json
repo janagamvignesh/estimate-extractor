@@ -1,0 +1,112 @@
+{
+ "source_note": "Fields copied from the claims system record (machine-parsed, may contain errors). Not the same thing as the estimate image. Names, IDs, places removed.",
+ "claim_ref": "CLAIM-C",
+ "vehicle": "Maruti Baleno (hatchback)",
+ "loss_date": "2025-05-08",
+ "loss_summary": "Stationary vehicle struck at the rear by a tractor; rear damage.",
+ "nature_of_loss": "Accident External Means",
+ "payment_mode": "Non_Cashless",
+ "claims_system_amounts": {
+  "estimated_amount_listed": 28945,
+  "final_settled_amount": 23442,
+  "currency": "INR"
+ },
+ "parsed_estimate": {
+  "stated_total_estimate_cost": 40650,
+  "total_part_estimation_cost": 18855,
+  "labour_estimation_cost": 21795,
+  "paint_estimation_cost": 0,
+  "vehicle_age_depreciation_pct": 0,
+  "lines": [
+   {
+    "part_name": "LAMP UNIT, RR COMBINATION RH",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 5923.6,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "REFLECTOR ASSY, REAR RH",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 123.9,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "PANEL, QTR INNER REAR LH",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 466.1,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "PANEL, WHEEL HOUSE INNER LH",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 3374.8,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "PANEL QUARTER RH",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 6484.1,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "BUMPER, REAR",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 5192,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "HOLDER, RR BUMPER SIDE, RH",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 76.7,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   },
+   {
+    "part_name": "HOLDER, RR BUMPER SIDE LH",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 76.7,
+    "part_dep_perc": 0,
+    "part_gst_perc": 18,
+    "total_part_amt": null,
+    "total_labour_amt": null,
+    "total_final_amt": null
+   }
+  ],
+  "parsed_damage_parts_from_photos": []
+ }
+}

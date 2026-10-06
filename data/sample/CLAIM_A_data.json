@@ -1,0 +1,206 @@
+{
+ "source_note": "Fields copied from the claims system record (machine-parsed, may contain errors). Not the same thing as the estimate image. Names, IDs, places removed.",
+ "claim_ref": "CLAIM-A",
+ "vehicle": "Hyundai Creta SX (SUV)",
+ "loss_date": "2025-05-05",
+ "loss_summary": "Parked car struck on driver side by an auto-rickshaw; front and rear damage reported.",
+ "nature_of_loss": "Accident External Means",
+ "payment_mode": "Non_Cashless",
+ "claims_system_amounts": {
+  "estimated_amount_listed": 31650,
+  "final_settled_amount": 15795,
+  "currency": "INR"
+ },
+ "parsed_estimate": {
+  "stated_total_estimate_cost": 43100,
+  "total_part_estimation_cost": 43100,
+  "labour_estimation_cost": 0,
+  "paint_estimation_cost": 0,
+  "vehicle_age_depreciation_pct": 40,
+  "lines": [
+   {
+    "part_name": "Front Bumper",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 1100,
+    "part_dep_perc": 50,
+    "part_gst_perc": 0,
+    "total_part_amt": 1100,
+    "total_labour_amt": 0,
+    "total_final_amt": 1100
+   },
+   {
+    "part_name": "Front Bumper Lower",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 1075,
+    "part_dep_perc": 50,
+    "part_gst_perc": 0,
+    "total_part_amt": 1075,
+    "total_labour_amt": 0,
+    "total_final_amt": 1075
+   },
+   {
+    "part_name": "Skid Plex",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 420,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 420,
+    "total_labour_amt": 0,
+    "total_final_amt": 420
+   },
+   {
+    "part_name": "Radiator Support",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 720,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 720,
+    "total_labour_amt": 0,
+    "total_final_amt": 720
+   },
+   {
+    "part_name": "Fog Lamp RH",
+    "part_type": "Other",
+    "part_quantity": 1,
+    "part_total": 950,
+    "part_dep_perc": 0,
+    "part_gst_perc": 0,
+    "total_part_amt": 950,
+    "total_labour_amt": 0,
+    "total_final_amt": 950
+   },
+   {
+    "part_name": "Front Bumper OF",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 4140,
+    "part_dep_perc": 50,
+    "part_gst_perc": 0,
+    "total_part_amt": 4140,
+    "total_labour_amt": 0,
+    "total_final_amt": 4140
+   },
+   {
+    "part_name": "Bonnet OF",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 4200,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 4200,
+    "total_labour_amt": 0,
+    "total_final_amt": 4200
+   },
+   {
+    "part_name": "Radiator Assy OF",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 720,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 720,
+    "total_labour_amt": 0,
+    "total_final_amt": 720
+   },
+   {
+    "part_name": "Radiator Support OF",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 180,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 180,
+    "total_labour_amt": 0,
+    "total_final_amt": 180
+   },
+   {
+    "part_name": "Headlamp OF RH",
+    "part_type": "Other",
+    "part_quantity": 1,
+    "part_total": 800,
+    "part_dep_perc": 0,
+    "part_gst_perc": 0,
+    "total_part_amt": 800,
+    "total_labour_amt": 0,
+    "total_final_amt": 800
+   },
+   {
+    "part_name": "Fog Lamp OF",
+    "part_type": "Other",
+    "part_quantity": 1,
+    "part_total": 800,
+    "part_dep_perc": 0,
+    "part_gst_perc": 0,
+    "total_part_amt": 800,
+    "total_labour_amt": 0,
+    "total_final_amt": 800
+   },
+   {
+    "part_name": "Bonnet Denting",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 2100,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 2100,
+    "total_labour_amt": 0,
+    "total_final_amt": 2100
+   },
+   {
+    "part_name": "Apron Policy Aerio RH",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 2700,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 2700,
+    "total_labour_amt": 0,
+    "total_final_amt": 2700
+   },
+   {
+    "part_name": "Bonnet Panting",
+    "part_type": "Metal",
+    "part_quantity": 1,
+    "part_total": 2700,
+    "part_dep_perc": 40,
+    "part_gst_perc": 0,
+    "total_part_amt": 2700,
+    "total_labour_amt": 0,
+    "total_final_amt": 2700
+   },
+   {
+    "part_name": "Front Bumper Panting",
+    "part_type": "Plastic",
+    "part_quantity": 1,
+    "part_total": 2250,
+    "part_dep_perc": 50,
+    "part_gst_perc": 0,
+    "total_part_amt": 2250,
+    "total_labour_amt": 0,
+    "total_final_amt": 2250
+   }
+  ],
+  "parsed_damage_parts_from_photos": [
+   {
+    "parts_name": "Front_Bumper",
+    "damage_type": "Damage"
+   },
+   {
+    "parts_name": "Right_Fog_Lamp",
+    "damage_type": "Damage"
+   },
+   {
+    "parts_name": "Hood_Bonnet",
+    "damage_type": "Damage"
+   },
+   {
+    "parts_name": "Right_Headlight",
+    "damage_type": "Damage"
+   }
+  ]
+ }
+}
